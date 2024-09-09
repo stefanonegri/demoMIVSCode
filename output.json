@@ -1,0 +1,15 @@
+{
+    "CityInfo": {
+      "Name": "Colombo",
+      "Country": "LK"
+    },
+    "WeatherDetails": {
+      "Temperature": {
+        "Current": 24.97,
+        "FeelsLike": 25.74
+      },
+      "Humidity": 85,
+      "Pressure": "Sea Level: 1009 Ground Level:1007 Median:1008"
+    }
+  }
+  
