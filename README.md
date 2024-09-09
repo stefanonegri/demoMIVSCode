@@ -28,4 +28,6 @@ see picture 1 (to be attached)
    - (optional) use the magic button to map
    - map manually
      - modify the pressure with "dmUtils.numberToString(input.main.pressure)"
-
+5. Build and run
+   - debug
+### Create an API and run in Choreo
